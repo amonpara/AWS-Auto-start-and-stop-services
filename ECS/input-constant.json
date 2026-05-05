@@ -1,0 +1,11 @@
+#for start the ECS service
+
+{
+  "action": "start"
+}
+
+#for stop the ECS service
+
+{
+  "action": "stop"
+}
